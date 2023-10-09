@@ -8,13 +8,20 @@ Create a smart contract with a single private state variable (string or uint) an
 
 0xc13Bc44BE679c8EEC00dd556770C8ACc3E6E1530 <br/>
 
-https://mumbai.polygonscan.com/address/0xc13Bc44BE679c8EEC00dd556770C8ACc3E6E1530
+https://mumbai.polygonscan.com/address/0xc13Bc44BE679c8EEC00dd556770C8ACc3E6E1530 <br/>
+
+Access Variable script - scripts/mumbai.js
 
 ### Contract Address (Swisstronik)
 
 0xE82475F07491fBACCa9E4362dD32C362a878bbAC <br/>
 
-https://explorer-evm.testnet.swisstronik.com/address/0xE82475F07491fBACCa9E4362dD32C362a878bbAC/transactions#address-tabs
+https://explorer-evm.testnet.swisstronik.com/address/0xE82475F07491fBACCa9E4362dD32C362a878bbAC/transactions#address-tabs <br/>
+
+Access Variable script Without Decoding - scripts/swiss.js
+
+Set Variable script - scripts/setNumber.js
+Get Variable script - scripts/getNumber.js
 
 Try running some of the following tasks:
 
