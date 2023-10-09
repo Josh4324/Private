@@ -1,4 +1,4 @@
-# Swisstronik Developer Challenge 1
+# Swisstronik Developer Challenge 2
 
 ## Developer Challenge:
 
