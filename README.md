@@ -18,10 +18,10 @@ Access Variable script - scripts/mumbai.js
 
 https://explorer-evm.testnet.swisstronik.com/address/0xE82475F07491fBACCa9E4362dD32C362a878bbAC/transactions#address-tabs <br/>
 
-Access Variable script Without Decoding - scripts/swiss.js
+Access Variable script Without Decoding - scripts/swiss.js <br/>
 
-Set Variable script - scripts/setNumber.js
-Get Variable script - scripts/getNumber.js
+Set Variable script - scripts/setNumber.js <br/>
+Get Variable script - scripts/getNumber.js <br/>
 
 Try running some of the following tasks:
 
